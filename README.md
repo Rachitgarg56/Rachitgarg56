@@ -1,6 +1,6 @@
 ![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQHN1lOX9X7p5w/profile-displaybackgroundimage-shrink_350_1400/0/1661188444696?e=1667433600&v=beta&t=s2dqDfQkr6Y-O3UTSVpnC7NZ41jagEYTdizCVtKVZws)
 
-### Hi there 👋, Rachit Garg
+### Hi there 👋, I'm Rachit Garg
 #### Design and Development
 
 I'm Rachit from India, and love learning design and development. I also really enjoy learning languages and frameworks like Bootstrap and Reactjs. Obsessed with sharpening my front-end skills.
