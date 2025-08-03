@@ -1,16 +1,23 @@
-![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQHN1lOX9X7p5w/profile-displaybackgroundimage-shrink_350_1400/0/1661188444696?e=1667433600&v=beta&t=s2dqDfQkr6Y-O3UTSVpnC7NZ41jagEYTdizCVtKVZws)
+### 👋 Hi there, I'm Rachit Garg  
+#### Frontend Web Developer | React.js | Next.js | Node.js
 
-### Hi there 👋, I'm Rachit Garg
-#### Frontend Web Developer
+🚀 I'm a passionate frontend developer from India, currently working at **Leviosa Consulting Pvt. Ltd.**, with past internship experience at **Kommunicate**. I specialize in building **responsive, scalable web applications** using modern tech like **React.js, Next.js, Node.js, and Tailwind CSS**.
 
-I'm Rachit from India, and love learning design and development. I also really enjoy learning languages and frameworks like Bootstrap and Reactjs. Obsessed with sharpening my front-end skills.
+---
 
-Skills: REACT / JS / HTML / CSS / NODEJS / jQuery
+### 🔧 Skills  
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, Material-UI  
+**Backend:** Node.js, Express.js, MongoDB, Firebase  
+**Others:** Git, GitHub, AWS, Jekyll, Liquid, Liveblocks.io
 
-- 🔭 To be a fullstack developer.
-- 🌱 I’m currently working on projects related to Reactjs and nodejs. 
-- 😄 Pronouns: he/him/his 
+---
 
+### 🌟 Projects  
+- **Sringeri Website** – Modernized a large-scale website using Next.js & Firebase  
+- **Figma Clone** – Real-time collaborative design tool (React.js + fabric.js)  
+- **FoodMine** – End-to-end food ordering system (MERN stack)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rachitgarg56)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rachitgarg56/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__emanate/)  
+---
 
+### 📫 Connect with me  
+[GitHub](https://github.com/Rachitgarg56) | [LinkedIn](https://www.linkedin.com/in/rachitgarg56/) | [Instagram](https://www.instagram.com/__emanate/)
