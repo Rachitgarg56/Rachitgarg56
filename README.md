@@ -20,4 +20,4 @@
 ---
 
 ### 📫 Connect with me  
-[GitHub](https://github.com/Rachitgarg56) | [LinkedIn](https://www.linkedin.com/in/rachitgarg56/) | [Instagram](https://www.instagram.com/__emanate/)
+[GitHub](https://github.com/Rachitgarg56) | [LinkedIn](https://www.linkedin.com/in/rachitgarg56/)
